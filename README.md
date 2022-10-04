@@ -1,9 +1,9 @@
 
-# ProjetoFinal_Wellington_Bernardes_Compass
+### ProjetoFinal_Wellington_Bernardes_Compass
 
-# Reality Stone, Sprint 5
+### Reality Stone, Sprint 5
 
-## Sobre o Projeto
+### Sobre o Projeto
 Aqui estará o teste de automação feitos na 5° Sprint da trilha Reality Stone.
 Automação com o site: https://front.serverest.dev/login
 Projeto foi automatizar a login,cadastro e uma pesquisa na home 
@@ -18,7 +18,7 @@ Instalação das gems necessárias para realizar os testes
   gem 'pry'
   
   
-  ## Tecnologias ultilizadas
+ ### Tecnologias ultilizadas
 - Git: Para versionamento de arquivo;
 - GitHub: Para compartilhamento do projeto;
 - Ruby: Linguagem utilizada para os testes e para realização dos exercícios de Ruby Koans e do TDD;
@@ -29,15 +29,15 @@ Instalação das gems necessárias para realizar os testes
 - Selenium: Ferramenta que permite a simulação das ações do usuário em uma aplicação web.
 - Cmder - Prompt de comando
 
-Comandos Utilizados 
+###Comandos Utilizados 
 Bundle install - para instalação das gems
 cumcumber --instal para instalar as pastas padroes
 
-Ambientes testados
+###Ambientes testados
  Windows 11 , navegador utilizado google chrome na versão  105.0.5195.127
  
  
- Referencias
+ ###Referencias
  https://medium.com/cwi-software/automatizando-testes-de-aplicações-web-com-capybara-e-selenium-webdriver-8e630c7f6f03
  
  ## Agradecimentos aos que me ajudaram nas execuções dos testes e correção de erros 
