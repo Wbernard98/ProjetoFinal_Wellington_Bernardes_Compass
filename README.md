@@ -29,15 +29,15 @@ Instalação das gems necessárias para realizar os testes
 - Selenium: Ferramenta que permite a simulação das ações do usuário em uma aplicação web.
 - Cmder - Prompt de comando
 
-###Comandos Utilizados 
+### Comandos Utilizados 
 Bundle install - para instalação das gems
 cumcumber --instal para instalar as pastas padroes
 
-###Ambientes testados
+### Ambientes testados
  Windows 11 , navegador utilizado google chrome na versão  105.0.5195.127
  
  
- ###Referencias
+ ### Referencias
  https://medium.com/cwi-software/automatizando-testes-de-aplicações-web-com-capybara-e-selenium-webdriver-8e630c7f6f03
  
  ## Agradecimentos aos que me ajudaram nas execuções dos testes e correção de erros 
