@@ -1,7 +1,7 @@
 
 ### ProjetoFinal_Wellington_Bernardes_Compass
 
-### Reality Stone, Sprint 5
+### Reality Stone, Sprint 6
 
 ### Sobre o Projeto
 Aqui estará o teste de automação feitos na 5° Sprint da trilha Reality Stone.
