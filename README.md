@@ -40,10 +40,8 @@ cumcumber --instal para instalar as pastas padroes
  ### Referencias
  https://medium.com/cwi-software/automatizando-testes-de-aplicações-web-com-capybara-e-selenium-webdriver-8e630c7f6f03
  
- ## Agradecimentos aos que me ajudaram nas execuções dos testes e correção de erros 
+ ### Agradecimentos aos que me ajudaram nas execuções dos testes e correção de erros 
   William Soares,
-  Christian Oliveira,
-  Bruno Guimaraes,
-  Eliane da Silva,
-  Emerson Barcelos
+  Christian Oliveira
+ 
  
