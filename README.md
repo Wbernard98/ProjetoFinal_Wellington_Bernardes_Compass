@@ -28,6 +28,8 @@ Instalação das gems necessárias para realizar os testes
 - SitePrism: Ferramenta de projeto para PageObjects.
 - Selenium: Ferramenta que permite a simulação das ações do usuário em uma aplicação web.
 - Cmder - Prompt de comando
+### Automação realizada
+Login, cadastro e busca por um produto
 
 ### Comandos Utilizados 
 Bundle install - para instalação das gems
